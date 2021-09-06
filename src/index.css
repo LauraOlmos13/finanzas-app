@@ -1,0 +1,93 @@
+/* 
+#222831 dark
+#393E46 secondary
+#00ADB5 success
+#EEEEEE light
+*/
+
+/* bg */
+.fn-bg-dark {
+    background-color: #222831;
+}
+
+.fn-bg-secondary {
+    background-color: #393E46;
+}
+
+.fn-bg-success {
+    background-color: #00ADB5;
+}
+
+.fn-bg-light {
+    background-color: #EEEEEE;
+}
+
+/* text */
+.fn-text-dark {
+    color: #222831;
+}
+
+.fn-text-secondary {
+    color: #393E46;
+}
+
+.fn-text-success {
+    color: #00ADB5;
+}
+
+.fn-text-light {
+    color: #EEEEEE;
+}
+
+/* btn */
+.fn-btn-dark {
+    background-color: #222831;
+}
+
+.fn-btn-secondary {
+    background-color: #393E46;
+}
+
+.fn-btn-success {
+    background-color: #00ADB5;
+}
+
+.fn-btn-light {
+    background-color: #EEEEEE;
+}
+
+/* shape */
+.custom-shape-divider-top-1630802886 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1630802886 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 100px;
+}
+
+.custom-shape-divider-top-1630802886 .shape-fill {
+    fill: #00ADB5;
+}
+
+/* active */
+.fn-active:focus {
+    background-color: #00ADB5;
+    color: #222831;
+}
+
+.fn-active:focus:hover {
+    background-color: #00ADB5;
+    color: #222831;
+}
+
+.fn-nav-link:hover {
+    color: #00ADB5;
+}
